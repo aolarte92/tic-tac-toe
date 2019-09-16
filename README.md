@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 tres en linea Reaect.js
 
+basado en el tutorial de [es.reactjs.org](https://es.reactjs.org/tutorial/tutorial.html)
+
 ## Inspeccionando el código
 
 notarás que tenemos 3 componentes de React:
